@@ -54,3 +54,5 @@ As you can see, the examples with `djb2`, `fnv-1a` and `jenkins` are closer to t
 > `loselose` is really really bad
 
 > Both `myhash` and `loselose` are closer to a [**gaussian distribution**](https://en.wikipedia.org/wiki/Normal_distribution)
+
+![**normal-vs-uniform**](./samples/normal-vs-uniform.png)
